@@ -1,2 +1,2 @@
-# ch-website
-site open-source do chpkg
+# Coffeehub Packages - OpenSource Website
+
