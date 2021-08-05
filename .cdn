@@ -1,0 +1,4 @@
+# CDN CONFIG
+IP = "https://cdn.coffeehub.ga";
+root = [true];
+@root = 1
