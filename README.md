@@ -1,2 +1,2 @@
-# Coffeehub Packages - OpenSource Website
+# Coffeehub Packages - OpenSource
 
