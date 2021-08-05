@@ -1,2 +1,0 @@
-# Coffeehub Packages - OpenSource
-
